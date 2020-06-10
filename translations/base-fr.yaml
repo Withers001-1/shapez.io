@@ -32,7 +32,7 @@ steamPage:
 
         shapez.io est un jeu qui consiste à construire des usines pour automatiser la création et la combinaison de formes. Livrez les formes demandées, de plus en plus complexes, pour progresser dans le jeu et débloquez des améliorations pour accélérer votre usine.
 
-        Comme la demande augmente, vous devrez agrandir votre usine pour répondre aux besoins - Mais, n'oubliez pas les ressources, vous devrez vous agrandir dans la carte [b]infinie[/b] !
+        Comme la demande augmente, vous devrez agrandir votre usine pour répondre aux besoins - Mais, n'oubliez pas les ressources, vous devrez vous étendre dans la carte [b]infinie[/b] !
 
         Comme les formes peuvent vite devenir ennuyeuses, vous devrez mélanger les couleurs et peindre vos formes avec - Combinez les ressources de couleur rouge, verte et bleue pour produire différentes couleurs et peignez les formes avec pour satisfaire la demande.
 
@@ -41,27 +41,27 @@ steamPage:
         [b]Avantages de la version complête[/b]
 
         [list]
-            [*] Points de positions
+            [*] Balises
             [*] Sauvegardes illimitées
             [*] Mode sombre
             [*] Plus d'options
             [*] Me permet de développer davantage shapez.io ❤️
-            [*] Plus de fonctionnalités dans le future!
+            [*] Plus de fonctionnalités dans le futur!
         [/list]
 
         [b]Fonctionnalités planifiées & Suggestions de la communauté[/b]
 
-        Ce jeu est open source - N'importe qui peut contribuer! En plus de cela, j'écoute beaucoup la communauté ! J'essaie de lire toutes les suggestions et de prendre en compte autant de réactions que possible.
+        Ce jeu est open source - N'importe qui peut contribuer! En plus de cela, j'écoute [b]beaucoup[/b] la communauté ! J'essaie de lire toutes les suggestions et de prendre en compte autant de réactions que possible.
 
         [list]
             [*] Mode histoire où les bâtiments coûtent des formes.
             [*] Plus de niveaux et de bâtiments (Exclusif de la version complête)
-            [*] Différente carte et peut-être des obstacles sur la carte
-            [*] Création de carte configurable (Modifier le nombre et la taille des gisement, graines et bien plus)
+            [*] Différentes cartes et peut-être des obstacles dessus
+            [*] Création de carte configurable (Modifier le nombre et la taille des gisement, seed/graines et bien plus)
             [*] Plus de types de formes
-            [*] Plus de performances (Même si le jeu roûle déjà très bien!)
+            [*] Meilleures performances (Même si le jeu roûle déjà très bien!)
             [*] Mode daltonien
-            [*] Et bien plus!
+            [*] Et bien plus encore!
         [/list]
 
         Allez voir mon tableau trello pour la feuille de route complête! https://trello.com/b/ISQncpJP/shapezio
@@ -77,8 +77,8 @@ global:
     suffix:
         thousands: k
         millions: M
-        billions: T
-        trillions: E
+        billions: B
+        trillions: T
 
     # Shown for infinitely big numbers
     infinite: inf
