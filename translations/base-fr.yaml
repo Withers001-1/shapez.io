@@ -597,7 +597,7 @@ settings:
         dev: Développement
         staging: Test
         prod: Production
-    buildDate: Créé le <at-date>
+    buildDate: Créé <at-date>
 
     labels:
         uiScale:
